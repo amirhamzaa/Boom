@@ -21,7 +21,7 @@
 * `pkg install git -y`
 * `pip install requests`
 * `pip install mechanize`
-* `git clone https://github.com/mao2116/MBOMB`
+* `git clone https://github.com/amirhamzaa/Boom`
 * `cd $HOME`
 * `ls`
 * `cd MBOMB`
